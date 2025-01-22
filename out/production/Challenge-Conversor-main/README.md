@@ -3,7 +3,7 @@
 Como parte de mi proceso de formación del programa de Oracle One impartido por Alura LATAM este primer challenge consiste en realizar un conversor de monedas en Java haciendo integraciones de una API llamada Exchange Rate API.
 
 🚀Conecta conmigo en LinkedIn: 
-[@jhonathan alexancer](www.linkedin.com/in/jhonathan-alexander-b7b164267)
+[@jhonathan alexander](www.linkedin.com/in/jhonathan-alexander-b7b164267)
 
 
 ## ¿Qué encontrarás en este repositorio?
